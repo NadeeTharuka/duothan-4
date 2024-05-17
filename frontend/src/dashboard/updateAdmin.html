@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Admin Dashboard</title>
+</head>
+<body>
+  <h1>Update Admin Details</h1>
+  <form action="#" method="POST">
+    <label for="firstName">First Name:</label><br>
+    <input type="text" id="firstName" name="firstName" required><br><br>
+
+    <label for="lastName">Last Name:</label><br>
+    <input type="text" id="lastName" name="lastName" required><br><br>
+
+    <label for="username">Username:</label><br>
+    <input type="text" id="username" name="username" required><br><br>
+
+    <label for="mobileNumber">Mobile Number:</label><br>
+    <input type="tel" id="mobileNumber" name="mobileNumber" required><br><br>
+
+    <label for="email">Email:</label><br>
+    <input type="email" id="email" name="email" required><br><br>
+
+    <label for="adminType">Admin Type:</label><br>
+    <select id="adminType" name="adminType" required>
+      <option value="superAdmin">Super Admin</option>
+      <option value="regularAdmin">Regular Admin</option>
+    </select><br><br>
+
+    <label for="password">Password:</label><br>
+    <input type="password" id="password" name="password" required><br><br>
+
+    <label for="confirmPassword">Confirm Password:</label><br>
+    <input type="password" id="confirmPassword" name="confirmPassword" required><br><br>
+
+    <div class="form-group">
+        <button type="submit">Update Admin</button>
+    </div>
+  </form>
+</body>
+</html>
