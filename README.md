@@ -16,8 +16,8 @@ Welcome to the repository for the Neotropolis Smart Transport Management System 
 - Facilitate contactless payments for all transport services through the digital pass.
 
 ### Traffic Optimization and Management
-Implement algorithms to analyze traffic patterns and optimize signal timings.
-Provide alternative routes during congestion to improve traffic flow.
+- Implement algorithms to analyze traffic patterns and optimize signal timings.
+- Provide alternative routes during congestion to improve traffic flow.
 
 ### User-Friendly Web Interface
 - Develop an intuitive web interface for users to manage their transport passes.
