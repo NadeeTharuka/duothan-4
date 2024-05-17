@@ -4,8 +4,8 @@ Welcome to the repository for the Neotropolis Smart Transport Management System 
 
 ## Features
 ### Digital Transport Pass (DTP) System
-Issue digital tickets to users upon parking at the Collective Neotropolis Parkinglot.
-Digital tickets serve as comprehensive transport passes for all Neotropolis transport services.
+- Issue digital tickets to users upon parking at the Collective Neotropolis Parkinglot.
+- Digital tickets serve as comprehensive transport passes for all Neotropolis transport services.
 
 ### Real-time Transport Tracking
 Provide users with real-time tracking of public transport vehicles.
