@@ -12,8 +12,8 @@ Welcome to the repository for the Neotropolis Smart Transport Management System 
 - Display accurate arrival times and updates for all transport services.
 
 ### Integrated Payment System
-Allow users to manage and top-up their transport passes.
-Facilitate contactless payments for all transport services through the digital pass.
+- Allow users to manage and top-up their transport passes.
+- Facilitate contactless payments for all transport services through the digital pass.
 
 ### Traffic Optimization and Management
 Implement algorithms to analyze traffic patterns and optimize signal timings.
