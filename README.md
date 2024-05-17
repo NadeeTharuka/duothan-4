@@ -8,8 +8,8 @@ Welcome to the repository for the Neotropolis Smart Transport Management System 
 - Digital tickets serve as comprehensive transport passes for all Neotropolis transport services.
 
 ### Real-time Transport Tracking
-Provide users with real-time tracking of public transport vehicles.
-Display accurate arrival times and updates for all transport services.
+- Provide users with real-time tracking of public transport vehicles.
+- Display accurate arrival times and updates for all transport services.
 
 ### Integrated Payment System
 Allow users to manage and top-up their transport passes.
