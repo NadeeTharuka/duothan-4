@@ -1,4 +1,4 @@
-# duothan-4
+# Duothan-4
 ## Neotropolis Smart Transport Management System
 Welcome to the repository for the Neotropolis Smart Transport Management System (STMS). This project aims to create a web-based platform to streamline and enhance the transportation experience within Neotropolis.
 
